@@ -1,0 +1,13 @@
+body {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
